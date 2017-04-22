@@ -18,7 +18,6 @@ import static org.mockito.Mockito.when;
 
 /**
  * Created by Meng on 4/21/17.
- * XIXI
  */
 @SpringBootTest
 @RunWith(SpringRunner.class)
